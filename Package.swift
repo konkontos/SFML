@@ -19,9 +19,10 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
                     name: "SFML",
-                    url: "https://github.com/konkontos/FlyerKit/raw/refs/heads/main/Sources/SFML/SFML.xcframework.zip",
+                    url:"https://github.com/konkontos/SFML/raw/refs/heads/main/Sources/SFML/SFML.xcframework.zip",
                     checksum: "48e0ec449b96bcee2f3e7ab57ccccbb62c4d1f033281c322ee128a645693dfdc"
                 )
 
     ]
 )
+

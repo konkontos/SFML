@@ -2,4 +2,4 @@
 
 SPM binary distribution for Flipp.com `SFML`.
 
-v0.1.1
+v0.1.2
